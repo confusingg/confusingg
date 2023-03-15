@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @confusingg
 - 👀 I’m interested in localisation, languages and game dev
-- 🌱 I’m currently learning Japanese, Spanish and C#
+- 🌱 I’m currently learning Japanese, Spanish, Arabic and C#
 
 <!---
 confusingg/confusingg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
